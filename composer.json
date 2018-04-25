@@ -1,0 +1,19 @@
+{
+    "name": "oneword/composertest",
+    "description": "This a demo for build composer packagist.",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "oneword",
+            "email": "kaifeng223@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "OneWord\\ComposerTest\\":"src"
+        }
+    }
+}
