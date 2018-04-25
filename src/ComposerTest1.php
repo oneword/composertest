@@ -23,6 +23,10 @@ class ComposerTest1
         echo 'test111';
         echo 'test111';
         echo 'test111';
+        echo 'test111';
+        echo 'test111';
+        echo 'test111';
+        echo 'test111';
 
 
 
