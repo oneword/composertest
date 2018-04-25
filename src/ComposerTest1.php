@@ -14,5 +14,6 @@ class ComposerTest1
     public function info()
     {
         echo 'test1';
+        echo 'test111';
     }
 }
